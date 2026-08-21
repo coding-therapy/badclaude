@@ -43,7 +43,7 @@
     "pack": "npm pack"
   },
   "dependencies": {
-    "electron": "^33.0.0",
+    "electron": "^39.8.10",
     "koffi": "^2.9.0"
   }
 }
